@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sign up</title>
+        <link rel = "stylesheet" type = "text/css" href = "main.css">
+    </head>
+
+    <body>
+        <h1>Welcome to Yongju's shop</h1>
+
+        <p><a href = "https://2020147547.github.io/HomeworkRepository/LAB2/login.html">로그인으로</a></p>
+
+        <h1>개인정보</h1>
+
+        <p><label>이름 :
+            <input name = "name" type = "text" size = "25"
+            maxlength = "30" autofocus>
+        </label></p>
+
+        <p><label>생년월일 :
+            <input name = "birthday" type = "date">
+        </label></p>
+
+        <p><label>학년 :
+            <input name = "year" type = "number" min = "1" max = "5" step = "1" value = "1">
+        </label></p>
+
+        <p><label>전화번호 :
+            <input name = "phonenum" type = "tel" pattern = "\(\d{3}\) + \d{3}-\d{4}">
+        </label></p>
+
+        <p><label>ID :
+            <input name = "ID" type = "text" size = "25" maxlength = "30" autocomplete="on">
+        </label></p>
+
+        <p><label>PW :
+            <input name = "PW" type = "password" size = "25" placeholder = "비밀번호를 입력하세요">
+        </label></p>
+
+        <p><label>PW 확인 :
+            <input name = "PW" type = "password" size = "25" required>
+        </label></p>
+
+        <p>
+            <input class = "box" type = "submit" value = "회원가입">
+            <input class = "box" type = "reset" value = "지우기">
+        </p>
+    </body>
+</html>
