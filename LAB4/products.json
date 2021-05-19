@@ -1,0 +1,74 @@
+{
+    "latenightSnack": [
+        {
+            "postID": 1,
+            "name": "뿌링클",
+            "price": 19000,
+            "image": "뿌링클.jpg",
+            "type": "chicken"
+        },
+        {
+            "postID": 1,
+            "name": "황금올리브",
+            "price": 20000,
+            "image": "황금올리브.jpg",
+            "type": "chicken"
+        },
+        {
+            "postID": 1,
+            "name": "페퍼로니피자",
+            "price": 25000,
+            "image": "페퍼로니피자.jpg",
+            "type": "pizza"
+        },
+        {
+            "postID": 1,
+            "name": "불고기피자",
+            "price": 20000,
+            "image": "불고기피자.jpg",
+            "type": "pizza"
+        },
+        {
+            "postID": 2,
+            "name": "콤비네이션피자",
+            "price": 19000,
+            "image": "콤비네이션피자.jpg",
+            "type": "pizza"
+        },
+        {
+            "postID": 2,
+            "name": "치즈피자",
+            "price": 15000,
+            "image": "치즈피자.jpg",
+            "type": "pizza"
+        },
+        {
+            "postID": 2,
+            "name": "고추바사삭",
+            "price": 17000,
+            "image": "고추바사삭.jpg",
+            "type": "chicken"
+        },
+        {
+            "postID": 3,
+            "name": "오리엔탈파닭",
+            "price": 17000,
+            "image": "오리엔탈파닭.jpg",
+            "type": "chicken"
+        },
+        {
+            "postID": 3,
+            "name": "간장티꾸닭",
+            "price": 17500,
+            "image": "간장티꾸닭.jpg",
+            "type": "chicken"
+        },        
+        {
+            "postID": 3,
+            "name": "스노우어니언",
+            "price": 17500,
+            "image": "스노우어니언.jpg",
+            "type": "chicken"
+        }
+    ]
+}
